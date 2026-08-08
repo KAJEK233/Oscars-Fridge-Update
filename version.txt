@@ -1,10 +1,10 @@
 # ❄️ OSCAR FRIDGE OS - Wersja 2.2
 
-Z dumą prezentuję **OSCAR FRIDGE OS 1.0** – zaawansowany system operacyjny (IoT) stworzony do inteligentnego sterowania układami chłodzenia opartymi na ogniwach Peltiera. 
+Z dumą prezentuję **OSCAR FRIDGE OS 2.2** – zaawansowany system operacyjny (IoT) stworzony do inteligentnego sterowania układami chłodzenia opartymi na ogniwach Peltiera. 
 
 Projekt wykorzystuje nowoczesną, dwuprocesorową architekturę sprzętową, oddzielając "Mózg" (logika i sieć) od "Mięśni" (sterowanie tranzystorami dużej mocy).
 
-## 🚀 Główne funkcje wydania 1.0
+## 🚀 Główne funkcje wydania 2.2
 
 ### 🧠 Architektura Dual-MCU
 * **Mózg (ESP8266):** Odpowiada za serwer WWW, łączność Wi-Fi, harmonogramy NTP, zaawansowany algorytm PID z predykcją (Predictive Kick) oraz AI Lab.
