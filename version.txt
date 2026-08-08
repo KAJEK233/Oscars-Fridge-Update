@@ -1,4 +1,4 @@
-# ❄️ OSCAR FRIDGE OS - Wersja 1.0
+# ❄️ OSCAR FRIDGE OS - Wersja 2.1
 
 Z dumą prezentuję **OSCAR FRIDGE OS 1.0** – zaawansowany system operacyjny (IoT) stworzony do inteligentnego sterowania układami chłodzenia opartymi na ogniwach Peltiera. 
 
